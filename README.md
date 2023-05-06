@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6b2qiq635sf877je/branch/main?svg=true)](https://ci.appveyor.com/project/iNextgenx/at-hw2/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/6b2qiq635sf877je?svg=true)](https://ci.appveyor.com/project/iNextgenx/at-hw2)
